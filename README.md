@@ -1,3 +1,3 @@
 # coffe-website
 coffee website and restaurant 
-live Demo:https://mostafaemad228.github.io/coffe-website/
+live demo:  https://mostafaemad228.github.io/coffee-website/
